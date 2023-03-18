@@ -1,0 +1,56 @@
+/* タイトルスライド */
+section.title-slide {
+  background-color: #1E88E5;
+  color: #fff;
+}
+
+/* タイトルのスタイル */
+section.title-slide h1 {
+  font-size: 4em;
+}
+
+/* サブタイトルのスタイル */
+section.title-slide h2 {
+  font-size: 2em;
+}
+
+/* 画像付きスライド */
+section.image-slide {
+  background-color: #fff;
+}
+
+/* 画像のスタイル */
+section.image-slide img {
+  max-width: 80%;
+  max-height: 60vh;
+}
+
+/* キャプションのスタイル */
+section.image-slide figcaption {
+  font-size: 1.5em;
+  color: #888;
+}
+
+/* ページ番号のスタイル */
+.marp-pagenumber {
+  font-size: 1.2em;
+  color: #888;
+}
+
+/* スライドの背景色 */
+section {
+  background-color: #fff;
+  color: #333;
+}
+
+/* スライドのタイトルのスタイル */
+h1 {
+  font-size: 3em;
+  color: #333;
+}
+
+/* スライドの本文のスタイル */
+p {
+  font-size: 2em;
+  color: #555;
+}
